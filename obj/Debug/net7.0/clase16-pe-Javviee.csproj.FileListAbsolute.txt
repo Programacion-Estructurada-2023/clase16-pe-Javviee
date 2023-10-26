@@ -1,0 +1,14 @@
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\bin\Debug\net7.0\clase16-pe-Javviee.exe
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\bin\Debug\net7.0\clase16-pe-Javviee.deps.json
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\bin\Debug\net7.0\clase16-pe-Javviee.runtimeconfig.json
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\bin\Debug\net7.0\clase16-pe-Javviee.dll
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\bin\Debug\net7.0\clase16-pe-Javviee.pdb
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.AssemblyInfoInputs.cache
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.AssemblyInfo.cs
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.csproj.CoreCompileInputs.cache
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.dll
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\refint\clase16-pe-Javviee.dll
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.pdb
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\clase16-pe-Javviee.genruntimeconfig.cache
+C:\Users\JAVIER\Desktop\practiasowo\Clase16\clase16-pe-Javviee\obj\Debug\net7.0\ref\clase16-pe-Javviee.dll
